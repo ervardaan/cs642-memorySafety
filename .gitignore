@@ -1,0 +1,4 @@
+.DS_Store
+*.o
+task*-attack
+task*-payload*
